@@ -23,8 +23,12 @@ Film-Fiesta is an innovative web application designed to revolutionize the way y
 
 **Target Audience:** Moviegoers who prefer online ticket booking for a smooth and time-saving experience.
 
-#UI
+## UI
+![WhatsApp Image 2024-07-28 at 20 34 20_e91a6b36](https://github.com/user-attachments/assets/2325f8ff-97b4-41b0-8628-9594c469fac3)
 
+![WhatsApp Image 2024-07-28 at 20 35 57_a7db82fa](https://github.com/user-attachments/assets/53312586-71cd-4bf0-8398-65d720697b24)
+
+![WhatsApp Image 2024-07-28 at 20 37 30_3375bb8c](https://github.com/user-attachments/assets/fada4727-f30b-45cd-b11b-9f47549f002f)
 
 ## Advantages and Functionality
 
