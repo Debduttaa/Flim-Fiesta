@@ -94,4 +94,4 @@ To contribute to the project:
 
 ## License
 
-Film-Fiesta is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Film-Fiesta is licensed under the Apache License. See the [LICENSE](LICENSE) file for more details.
